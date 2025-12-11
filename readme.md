@@ -1,4 +1,4 @@
-# 📦 React Ultimate Components - Biblioteca de Componentes React
+# 📦 React Ultimate Components - Free Edition
 
 Bem-vindo(a)!\
 Este projeto contém uma coleção gratuita composta por 40 componentes React
@@ -26,7 +26,7 @@ Faça o download da biblioteca de acordo com o ambiente que você está trabalha
 
 ------------------------------------------------------------------------
 
-# 🚀 Instalação
+# 🛠️ Instalação
 
 Para fazer a instalação siga os passos detalhados nos arquivos react-next-installation.md caso você esteja trabalhando em projeto NextJS ou react-vite-installation.md caso seja um projeto Vite.
 

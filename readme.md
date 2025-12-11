@@ -28,7 +28,7 @@ Faça o download da biblioteca de acordo com o ambiente que você está trabalha
 
 # 🚀 Instalação
 
-Para fazer a instalação siga os passos detalhados nos arquivos next-installation caso você esteja trabalhando em projeto NextJS ou vite-installation caso seja um projeto Vite.
+Para fazer a instalação siga os passos detalhados nos arquivos react-next-installation.md caso você esteja trabalhando em projeto NextJS ou react-vite-installation.md caso seja um projeto Vite.
 
 ------------------------------------------------------------------------
 

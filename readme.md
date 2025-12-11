@@ -32,12 +32,6 @@ Para fazer a instalação siga os passos detalhados nos arquivos next-installati
 
 ------------------------------------------------------------------------
 
-# ❓ Suporte
-
-Consulte a [documentação no Storybook](https://docs.reactultimate.pablosilvadev.com.br/) ou envie um email para pablojmde@gmail.com.
-
-------------------------------------------------------------------------
-
 # 🚀 React Ultimate Components – PRO  
 
 Se a versão gratuita já economizou seu tempo e facilitou seu desenvolvimento, então acreditamos fortemente que **a versão PRO leva sua produtividade para outro nível.**
